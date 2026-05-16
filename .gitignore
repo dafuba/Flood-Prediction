@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+models/*.pkl
+models/*.keras
+models/*.h5
+
+*.log
